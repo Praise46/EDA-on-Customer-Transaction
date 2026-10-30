@@ -2,7 +2,7 @@
 This is an exploratory data analysis on customer transactions to understand the patterns and outliers.
 
 # Project Overview
-This project performs an in-depth Exploratory Data Analysis (EDA) on a customer transaction dataset. The goal is to uncover purchasing patterns, analyze customer demographic behaviors, detect outliers, and provide actionable insights for business optimization, targeted marketing, and customer retention.
+This project performs an in-depth Exploratory Data Analysis (EDA) on a customer transaction dataset. The goal is to uncover purchasing patterns, analyze customer demographic behavior, detect outliers, and provide actionable insights for business optimization, targeted marketing, and customer retention.
 
 # Key Objectives
 - Calculate total revenue and average transaction value.
