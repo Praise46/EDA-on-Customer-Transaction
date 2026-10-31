@@ -17,8 +17,8 @@ This project performs an in-depth Exploratory Data Analysis (EDA) on a customer 
 ## Import Libraries
 
 The libraries used in this project are 
-Pandas for data manipulation
-Numpy for numerical computing
-Matplotlib for data visualisation.
-Seaborn for statistical data visualisation.
-Scipy for a comprehensive set of numerical algorithms.
+- Pandas for data manipulation
+- Numpy for numerical computing
+- Matplotlib for data visualisation.
+- Seaborn for statistical data visualisation.
+- Scipy for a comprehensive set of numerical algorithms.
