@@ -24,4 +24,4 @@ The libraries used in this project are
 - Scipy for a comprehensive set of numerical algorithms.
 
 ## Load dataset
-(```df = pd.read_csv("/Users//Documents/Data Analytics Project 2026/EDA on Customer Transaction/sample_dataset.csv"```)
+```df = pd.read_csv("/Users//Documents/Data Analytics Project 2026/EDA on Customer Transaction/sample_dataset.csv"```
